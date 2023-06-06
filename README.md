@@ -36,7 +36,7 @@ To run,
 NEXT_PUBLIC_API_URL=http://localhost
 ```
 
-_Note: the prefix should be `NEXT_PUBLIC` for reactjs application_
+_Note: the prefix should be `NEXT_PUBLIC` for nextjs application_
 
 2. Run the ansible playbook
 
